@@ -92,3 +92,4 @@ except socket.error:
 
 print("-"*50)
 print("Scan Completed.")
+input()
