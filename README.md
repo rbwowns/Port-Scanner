@@ -1,14 +1,24 @@
 # Port-Scanner
 This script can find opened ports on websites.
 
-# Requirements
-Python3
+## Requirements
+Python 3.x (Required)
 
-# How to use?
-1. Run this script.
-2. Enter a website address do you want.
-3. Enter port numbers do you want to check.
-4. It will be save logs and notice the results on your terminal.
+## How to run?
+### macOS/Linux
+1. Download the **Source code (zip)** file and extract it.
+2. Open your terminal.
+3. Navigate to the script's directory.
+4. Execute the script: `python3 port_scanner.py`
+
+### Windows
+Just open `port_scanner.exe`
+
+## How to use?
+1. Run the script.
+2. Enter the target website address.
+3. Enter the port numbers you want to check (separated by spaces).
+4. The program will save logs and display the results in your terminal.
 
 ## ⚠️ Ethical Use & Disclaimer
 
